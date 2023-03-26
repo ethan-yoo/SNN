@@ -12,7 +12,6 @@ class LIF:
         
         """
         dt(delta t) = 1ms (0.001s)
-        
         input_vt : input voltage
         """
         
